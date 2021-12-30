@@ -1,11 +1,13 @@
-# How to run your bot
+# D++ bots on Replit [![Run on Replit](https://replit.com/badge/github/alanlichen/dpp-on-repl)](https://replit.com/github/alanlichen/dpp-on-repl)
+
+## How to run your bot
 
 1. Set the `DISCORD_TOKEN` environment variable to your bot's token
 2. Put your code in src/main.cpp
 3. Click run!
 
 
-# How to keep your bot online
+## How to keep your bot online
 
 To keep your bot online, you need to have a webserver and ping it. Every 5 minutes is a good default. If you do not do this, your bot will fall asleep and go offlne.
 ### Registering an account on UPTIMEROBOT
